@@ -16,7 +16,11 @@ This project uses swing for the user interface. The computer generates a random 
 
 
 
-https://github.com/veeraj-k/Java-Swing-GuessingGame-MotionCut/assets/73791070/b41cb323-c581-486b-b3cc-954d8734746d
+https://github.com/veeraj-k/Java-Swing-GuessingGame-MotionCut/assets/73791070/b0c98873-19ca-4a80-a5fb-6089c7b448c9
+
+
+
+
 
 
 
