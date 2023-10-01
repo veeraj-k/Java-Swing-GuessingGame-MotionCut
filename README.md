@@ -14,6 +14,12 @@ This project uses swing for the user interface. The computer generates a random 
 
 [Demo Video](https://github.com/veeraj-k/Java-Swing-GuessingGame-MotionCut/blob/main/screenshots/NumberGuess.mkv)
 
+
+
+https://github.com/veeraj-k/Java-Swing-GuessingGame-MotionCut/assets/73791070/b41cb323-c581-486b-b3cc-954d8734746d
+
+
+
 Source Code : [/src/NumberGuessingSwing.java](https://github.com/veeraj-k/Java-Swing-GuessingGame-MotionCut/blob/main/screenshots/NumberGuess.mkv)
 
 ## Utilities Used
